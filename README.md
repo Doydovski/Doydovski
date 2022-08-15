@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Doydovski
-- 👀 I’m interested in money
+- 👋 Hi, I’m @Doyd
 - 🌱 I’m currently learning C++
 
 <!---
