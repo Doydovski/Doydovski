@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Doyd
+- 👋 Hi, I’m @Doydovski
 - 🌱 I’m currently learning C++
 
 <!---
